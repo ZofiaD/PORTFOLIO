@@ -1,4 +1,4 @@
-# PORTFOLIO!
+# PORTFOLIO! [English version](#english-version)
 
 
 ![IMG_6264](https://user-images.githubusercontent.com/102677799/210249109-14005ed3-d44c-4f28-8de4-2e9c61935e00.JPG)
@@ -16,19 +16,19 @@ Miałam przyjemność uczestniczyć w **116** godzinnym kursie **"Tester Oprogra
 
 *Podstaw SQL
 
-*Testowanie w metodyce BDD
+*Podstaw Javy
 
-*Podstawy Selenium WebDriver
+*Testowania w metodyce BDD
 
-*Przygotowanie do egzaminu ISTQB
+*Podstaw Selenium WebDriver
 
 
-W trakcie zajęć pracowaliśmy również z takimi narzędziami jak **Postman** i **Git**. Samodzielnie staram się poszerzać zakres wiedzy z nimi związany. Posiadam ceftyfikat **"Podstawy Postman"** wydany przez **Stacje IT** (o której dowiedziałam się z platformy Meetup). Uczestniczyłam w wydarzeniu **"Git w pigułce"** organizowanej przez **Cantest.it**. Obecnie jestem w trakcie kursu **"Git od podstaw"** Kamila Brzezińskiego. Brałam również udział w konferencji **"Dzień Kariery Kobiety w IT"**.
+W trakcie zajęć przygotowywaliśmy się do egzaminu ISTQB oraz pracowaliśmy z takimi narzędziami jak **Postman** i **Git**. Samodzielnie staram się poszerzać zakres wiedzy z nimi związany. Posiadam ceftyfikat **"Podstawy Postman"** wydany przez **Stacje IT** (o której dowiedziałam się z platformy Meetup). Uczestniczyłam w wydarzeniu **"Git w pigułce"** organizowanej przez **Cantest.it**. Obecnie jestem w trakcie kursu **"Git od podstaw"** Kamila Brzezińskiego. Brałam również udział w konferencji **"Dzień Kariery Kobiety w IT"**.
 
 Regularnie pracuję nad swoim angielskim na **platformie Tutlo**. Posiadam też potwierdzony **certyfikatem Instytutu Colina Rose** poziom **B2**.
 
 ### Moje projekty:
-*Zapytania REST API dla [Simple Books API](https://simple-books-api.glitch.me)
+*Zapytania REST API dla [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
  
 *Zapytania REST API dla serwisu [Restful-Booker](https://restful-booker.herokuapp.com/)
 
@@ -39,5 +39,26 @@ Regularnie pracuję nad swoim angielskim na **platformie Tutlo**. Posiadam też 
 ### Zainteresowania:
 Podróże małe i duże, chodzenie po górach, gotowanie.
 Poznawanie sposobów na świadomą praca z ciałem np. Technika Alexndra, Feldenkraisa, TRE itd.
+
+# English version
+
+# About me:
+Hi, ma name is Zofia Dańko and I decided to change my proffesional path from Quality Control Technician to Software Tester.  The world of IT is new for me but I have a lot of expierience in quality assurance. In my current job, I am responsible for detecting anomalies and creating reports of those. I ensure the quality of sound and video for clients like Disney, Netflix and HBO.
+
+# Courses and certificates:
+I finished the practical  116-hour course "Software Tester" organised by Software Development Academy. During this course, I gained theoretical and practical knowledge of:
+
+
+*Introduction to testing and tools for testers.
+
+*Scrum methodology
+
+*Databases and an introduction to programming.
+
+*Testing in the BDD methodology.
+
+*Basics of Selenium WebDriver.
+
+
 
 
