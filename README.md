@@ -42,10 +42,10 @@ Poznawanie sposobów na świadomą praca z ciałem np. Technika Alexndra, Felden
 
 # English version
 
-# About me:
+## About me:
 Hi, ma name is Zofia Dańko and I decided to change my proffesional path from Quality Control Technician to Software Tester.  The world of IT is new for me but I have a lot of expierience in quality assurance. In my current job, I am responsible for detecting anomalies and creating reports of those. I ensure the quality of sound and video for clients like Disney, Netflix and HBO.
 
-# Courses and certificates:
+## Courses and certificates:
 I finished the practical  116-hour course "Software Tester" organised by Software Development Academy. During this course, I gained theoretical and practical knowledge of:
 
 
@@ -59,6 +59,20 @@ I finished the practical  116-hour course "Software Tester" organised by Softwar
 
 *Basics of Selenium WebDriver.
 
+During the classes, we prepared for the ISTQB exam and worked with tools such as Postman and Git. I try to expand the scope of knowledge related to them. I have the "Basics Postman" certificate issued by IT Stations (I learned about it from the Meetup platform). I participated in the event "Git w pigułce" organized by Cantest.it. I am currently taking Kamil Brzeziński's "Git od podstaw" course. I also took part in the conference "Women's Career Day in IT".
 
+I regularly work on my English on the Tutlo platform. I also have a B2 level certified by the Colin Rose Institute.
 
+### My projects:
 
+* REST API queries [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
+
+* REST API queries [Restful-Booker](https://restful-booker.herokuapp.com/)
+
+* REST API queries [Punk API](https://punkapi.com/documentation/v2)
+
+* TestCase created by using TestRail [PHTravels](https://phptravels.net/). 
+
+### Interested:
+
+Travels, hiking, cooking.  
