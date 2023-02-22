@@ -134,4 +134,4 @@ I regularly work on my English on the **Tutlo platform.** I also have a **B2** l
 
 ### Interested:
 
-Travels, hiking, cooking and wellbeing (healthy lifestyle, stress release techniques e.g TRE, Alexander Technique).
+Travels, hiking, cooking and wellbeing (healthy lifestyle, stress release techniques e.g TRE, Feldenkrais Technique, Alexander Technique).
