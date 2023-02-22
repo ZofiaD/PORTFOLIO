@@ -6,17 +6,17 @@
 
 ## O mnie:
 Hej, nazywam się Zofia Dańko i choć to moje pierwsze kroki w charakterze testerki oprogramowania to mam za sobą wieloletnie doświadczenie w poszukiwaniu 
-i raportowaniu błędów. Dbam o jakość produkcji filmowych m.in. takich klientów jak Disney, Netflix czy HBO. Wyszukuję i zgłaszam wszelkie anomalnie zarówno w jakości dźwięku jak i video. Wiem też ile zamieszania potrafi sprawić źle przygotowana dokumentacja ;) 
+i raportowaniu błędów. Dbam o jakość produkcji filmowych m.in. takich klientów jak Disney, Netflix czy HBO. Wyszukuję i zgłaszam wszelkie anomalnie zarówno w jakości dźwięku jak i video. Wiem też ile zamieszania potrafi sprawić źle przygotowana dokumentacja :smirk: 
 ## Kursy i certyfikaty:
-Miałam przyjemność uczestniczyć w **116** godzinnym kursie **"Tester Oprogramowania"** organizowanym przez **Software Development Academy**. W jego trakcie zdobyłam teoretyczną i praktyczną wiedzę z:
+Miałam przyjemność uczestniczyć w **116-to** godzinnym kursie **"Tester Oprogramowania"** organizowanym przez **Software Development Academy**. W jego trakcie zdobyłam teoretyczną i praktyczną wiedzę z:
 
-* Zasad testowania, technik, narzędzi testerskich
+* Zasad testowania, technik i narzędzi testerskich
 
 * Metodyki Scrum
 
 * Podstaw SQL
 
-* Podstaw Java
+* Podstaw Javy
 
 * Testowania w metodyce BDD
 
@@ -27,21 +27,47 @@ W trakcie zajęć przygotowywaliśmy się do egzaminu ISTQB oraz pracowaliśmy z
 
 Regularnie pracuję nad swoim angielskim na **platformie Tutlo**. Posiadam też potwierdzony **certyfikatem Instytutu Colina Rose** poziom **B2**.
 
-#### Z dumą mogę też ogłosić, że jestem uczestniczką tegorocznego *DareIT_Challenge* podczas którego pod okiem ekspertek zdobywam cenne doświadczenie i tworzę nowy projekt do swojego portfolio. :muscle: :muscle: :muscle: :muscle:
-:point_right: https://github.com/ZofiaD/dare_it_challenge_portfolio_zofiaD.git
+#### Z dumą mogę też ogłosić, że byłam uczestniczką tegorocznego *DareIT_Challenge* podczas którego pod okiem ekspertek zdobyłam cenne doświadczenie i stworzyłam nowy projekt do swojego portfolio. :muscle: :muscle: :muscle: :muscle:
+
 
 ### Moje projekty:
-* Zapytania REST API dla [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
+
+1. [API](https://github.com/ZofiaD/PORTFOLIO/tree/main/API)
+ * Zapytania REST API dla [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
  
-* Zapytania REST API dla serwisu [Restful-Booker](https://restful-booker.herokuapp.com/)
+ * Zapytania REST API dla serwisu [Restful-Booker](https://restful-booker.herokuapp.com/)
 
-* Zapytania REST API dla [Punk API](https://punkapi.com/documentation/v2)
+ * Zapytania REST API dla [Punk API](https://punkapi.com/documentation/v2)
 
-* Przykładowe TestCase dla [PHTravels](https://phptravels.net/). Stworzone przy użyciu narzędzia TestRail.
+2. Test Cases
+ * Przykładowe Test Cases dla [PHTravels](https://phptravels.net/). :point_right: [Test Cases](https://github.com/ZofiaD/PORTFOLIO/blob/main/TestCase.pdf) Stworzone przy użyciu narzędzia TestRail.
+ * Test Cases dla strony [Futbol kolektyw](//scouts-test.futbolkolektyw.pl/pl) oraz aplikacji mobilnej [Pick.Eat.Up](https://pickeatup.io/) :point_right: [DareIT_challenge](https://drive.google.com/drive/folders/1OZHrDLQ9Q7OqTHEhCYCJTAEUBQSixOHD?usp=share_link)
+
+3. Zgłaszanie błędów oraz raport z wykonanych testów.
+
+ * [DareIT_challenge](https://drive.google.com/drive/folders/1ZBefbKlAniqDTgZPBl3wGLYppKZZWG9B?usp=share_link)
+ 
+4. Testowanie eksploracyjne aplikacji mobilnej OLX oraz raportowanie błędów.
+
+ * [DareIT_challenge](https://drive.google.com/drive/folders/1i8yyyPkfFo5nn885NUhzRrJreoPbNUPf?usp=share_link)
+ 
+ 
+### Narzędzia:
+ * Jira
+ * GIT
+ * Postman
+ * Slack
+ * XAMPP
+ * MySQL Workbench
+ * Microsoft Outlook 
+ * TestRail
+ 
 
 ### Zainteresowania:
 Podróże małe i duże, chodzenie po górach, gotowanie.
 Poznawanie sposobów na świadomą praca z ciałem np. Technika Alexndra, Feldenkraisa, TRE itd.
+
+---
 
 #### English version
 
@@ -49,7 +75,7 @@ Poznawanie sposobów na świadomą praca z ciałem np. Technika Alexndra, Felden
 Hi, my name is Zofia Dańko and I decided to change my proffesional path from Quality Control Technician to Software Tester.  The world of IT is new for me but I have a lot of expierience in quality assurance. In my current job, I am responsible for detecting anomalies and creating reports of those. I ensure the quality of sound and video for clients like Disney, Netflix and HBO.
 
 ## Courses and certificates:
-I finished the practical  116-hour course "Software Tester" organised by Software Development Academy. During this course, I gained theoretical and practical knowledge of:
+I finished the practical  **116-hour** course **"Software Tester"** organised by **Software Development Academy.** During this course, I gained theoretical and practical knowledge of:
 
 
 * Introduction to testing and tools for testers.
@@ -69,10 +95,12 @@ During the classes, we were prepared for the ISTQB exam and worked with tools su
 
 I regularly work on my English on the **Tutlo platform.** I also have a **B2** level certified by the **Colin Rose Institute.**
 
-#### I can proudly announce that I am participating in *DareIT_Challenge*. During the program, under the supervision of experts, I'm creating a new project for my portfolio. :muscle: :muscle: :muscle: :muscle:
-:point_right: https://github.com/ZofiaD/dare_it_challenge_portfolio_zofiaD.git
+#### I can proudly announce that I participated in *DareIT_Challenge*. During the program, under the supervision of experts, I created a new project for my portfolio. :muscle: :muscle: :muscle: :muscle:
+
 
 ### My projects:
+
+1. [API](https://github.com/ZofiaD/PORTFOLIO/tree/main/API) 
 
 * REST API queries [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
 
@@ -80,8 +108,30 @@ I regularly work on my English on the **Tutlo platform.** I also have a **B2** l
 
 * REST API queries [Punk API](https://punkapi.com/documentation/v2)
 
-* TestCase created by using TestRail [PHTravels](https://phptravels.net/). 
+2. Test Cases
+
+* Test Cases created by using TestRail [PHTravels](https://phptravels.net/). :point_right: [Test Cases](https://github.com/ZofiaD/PORTFOLIO/blob/main/TestCase.pdf)
+* Test Cases for [Futbol kolektyw](//scouts-test.futbolkolektyw.pl/pl) webside and [Pick.Eat.Up](https://pickeatup.io/) mobile aplication.  :point_right: [DareIT_challenge](https://drive.google.com/drive/folders/1OZHrDLQ9Q7OqTHEhCYCJTAEUBQSixOHD?usp=share_link)
+
+3. Bug reports and test plan.
+
+ * [DareIT_challenge](https://drive.google.com/drive/folders/1ZBefbKlAniqDTgZPBl3wGLYppKZZWG9B?usp=share_link)
+ 
+4. Exploratory testing and bug report - OLX mobile app.
+
+ * [DareIT_challenge](https://drive.google.com/drive/folders/1i8yyyPkfFo5nn885NUhzRrJreoPbNUPf?usp=share_link)
+
+
+### Tools:
+ * Jira
+ * GIT
+ * Postman
+ * Slack
+ * XAMPP
+ * MySQL Workbench
+ * Microsoft Outlook 
+ * TestRail
 
 ### Interested:
 
-Travels, hiking, cooking.  
+Travels, hiking, cooking and wellbeing (healthy lifestyle, stress release techniques e.g TRE, Alexander Technique).
