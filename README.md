@@ -64,8 +64,7 @@ Regularnie pracuję nad swoim angielskim na **platformie Tutlo**. Posiadam też 
  
 
 ### Zainteresowania:
-Podróże małe i duże, chodzenie po górach, gotowanie.
-Poznawanie sposobów na świadomą praca z ciałem np. Technika Alexndra, Feldenkraisa, TRE itd.
+Podróże małe i duże, chodzenie po górach, gotowanie, zdrowy styl życia.
 
 ---
 
@@ -134,4 +133,4 @@ I regularly work on my English on the **Tutlo platform.** I also have a **B2** l
 
 ### Interested:
 
-Travels, hiking, cooking and wellbeing (healthy lifestyle, stress release techniques e.g TRE, Feldenkrais Technique, Alexander Technique).
+Travels, hiking, cooking, wellbeing and healthy lifestyle.
