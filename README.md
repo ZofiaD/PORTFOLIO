@@ -42,6 +42,11 @@ i raportowaniu błędów. Dbam o jakość produkcji filmowych m.in. takich klien
 
  * [DareIT_challenge](https://drive.google.com/drive/folders/1i8yyyPkfFo5nn885NUhzRrJreoPbNUPf?usp=share_link)
  
+5. Testy eksploracyjne aplikacji https://swipeto.pl/ oraz zgłoszenie błędów w programie Jira.
+
+ * [SwipeTo](https://github.com/ZofiaD/PORTFOLIO/files/11171694/swipe.pdf)
+
+ 
  
 ### Narzędzia:
  * Jira
@@ -98,6 +103,9 @@ Hi, my name is Zofia Dańko and I decided to change my proffesional path from Qu
 4. Exploratory testing and bug report - OLX mobile app.
 
  * [DareIT_challenge](https://drive.google.com/drive/folders/1i8yyyPkfFo5nn885NUhzRrJreoPbNUPf?usp=share_link)
+ 
+5. Exploratory testing and bug report in Jira -  https://swipeto.pl/ app.
+ * [SwipeTo](https://github.com/ZofiaD/PORTFOLIO/files/11171694/swipe.pdf)
 
 
 ### Tools:
