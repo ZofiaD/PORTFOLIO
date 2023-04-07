@@ -45,6 +45,11 @@ i raportowaniu błędów. Dbam o jakość produkcji filmowych m.in. takich klien
 5. Testy eksploracyjne aplikacji https://swipeto.pl/ oraz zgłoszenie błędów w programie Jira.
 
  * [SwipeTo](https://github.com/ZofiaD/PORTFOLIO/files/11171694/swipe.pdf)
+ 
+6. SQL
+
+ * [Zapytania SQL](https://github.com/ZofiaD/PORTFOLIO/files/11179315/SQL.pdf)
+
 
  
  
@@ -104,8 +109,12 @@ Hi, my name is Zofia Dańko and I decided to change my proffesional path from Qu
 
  * [DareIT_challenge](https://drive.google.com/drive/folders/1i8yyyPkfFo5nn885NUhzRrJreoPbNUPf?usp=share_link)
  
-5. Exploratory testing and bug report in Jira -  https://swipeto.pl/ app.
+5. Exploratory testing and bug reports in Jira -  https://swipeto.pl/ app.
  * [SwipeTo](https://github.com/ZofiaD/PORTFOLIO/files/11171694/swipe.pdf)
+ 
+6. SQL
+
+ * [SQL](https://github.com/ZofiaD/PORTFOLIO/files/11179398/SQL.pdf)
 
 
 ### Tools:
