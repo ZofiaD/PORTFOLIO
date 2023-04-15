@@ -99,7 +99,7 @@ Hi, my name is Zofia Dańko and I decided to change my proffesional path from Qu
 2. Test Cases
 
 * Test Cases created by using TestRail [PHTravels](https://phptravels.net/). :point_right: [Test Cases](https://github.com/ZofiaD/PORTFOLIO/blob/main/TestCase.pdf)
-* Test Cases for [Futbol kolektyw](//scouts-test.futbolkolektyw.pl/pl) webside and [Pick.Eat.Up](https://pickeatup.io/) mobile aplication.  :point_right: [DareIT_challenge](https://drive.google.com/drive/folders/1OZHrDLQ9Q7OqTHEhCYCJTAEUBQSixOHD?usp=share_link)
+* Test Cases for [Futbol kolektyw](//scouts-test.futbolkolektyw.pl/pl) website and [Pick.Eat.Up](https://pickeatup.io/) mobile aplication.  :point_right: [DareIT_challenge](https://drive.google.com/drive/folders/1OZHrDLQ9Q7OqTHEhCYCJTAEUBQSixOHD?usp=share_link)
 
 3. Bug reports and test plan.
 
