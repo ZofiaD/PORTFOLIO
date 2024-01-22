@@ -13,7 +13,9 @@ i raportowaniu błędów. Dbam o jakość produkcji filmowych m.in. takich klien
 * **7 tygodniowy** kurs **"Zostań Testerem Manualnym"** organizowany przez **DareIT**
 * Ceftyfikat **"Podstawy Postman"** wydany przez **Stacje IT** 
 * Uczestniczyłam w wydarzeniu **"Git w pigułce"** organizowanym przez **Cantest.it**. 
-* Kurs **"Git od podstaw"** Kamila Brzezińskiego (w trakcie). 
+* Kurs **"Git od podstaw"** Kamila Brzezińskiego (w trakcie).
+* **ClickUp Novice Certificate**.
+* ** Trello for Beginners**.
 * **Certyfikat Instytutu Colina Rose** Angielski poziom **B2**. (Regularnie pracuję nad swoim angielskim na **platformie Tutlo**.)
 
  
@@ -55,6 +57,8 @@ i raportowaniu błędów. Dbam o jakość produkcji filmowych m.in. takich klien
  
 ### Narzędzia:
  * Jira
+ * ClickUp
+ * Trello
  * GIT
  * Postman
  * Slack
@@ -79,7 +83,9 @@ Hi, my name is Zofia Dańko and I decided to change my proffesional path from Qu
 * **7 weeks** course **"Become Manual Tester"** organized by **"DareIT"**.
 * **"Basics Postman"** certificate issued by  **IT Stations** 
 * I participated in the event **"Git w pigułce"** organized by **Cantest.it.** 
-* I am currently taking Kamil Brzeziński's **"Git od podstaw"** course. 
+* I am currently taking Kamil Brzeziński's **"Git od podstaw"** course.
+* **ClickUp Novice Certificate**.
+* ** Trello for Beginners**.
 * Certificate of **B2** English level issued by the **Colin Rose Institute.** (I regularly work on my English on the **Tutlo platform.**)
 
 
@@ -119,6 +125,8 @@ Hi, my name is Zofia Dańko and I decided to change my proffesional path from Qu
 
 ### Tools:
  * Jira
+ * ClickUp
+ * Trello
  * GIT
  * Postman
  * Slack
